@@ -1,0 +1,22 @@
+DB_CONNECTION=sqlsrv
+DB_HOST= 192.168.1.1
+DB_PORT=1433
+DB_DATABASE=GasStation_Tuan
+DB_USERNAME=sa
+DB_PASSWORD=Hpbvn123
+
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=gasstation
+DB_USERNAME=root
+DB_PASSWORD=
+
+
+
+server: 192.168.1.1
+tk: sa
+pass: Hpbvn123
+DB GasStation_Tuan
+

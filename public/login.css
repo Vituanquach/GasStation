@@ -1,0 +1,82 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:white;  
+    font-family: 'Arial';  
+} 
+.login{
+    background: #dcdcdc; 
+    border-radius: 15px ; 
+    position:absolute;
+	top:50%;
+	left:50%;
+	width:400px;  /* adjust as per your needs */
+	height:230px;   /* adjust as per your needs */
+	margin-left:-200px;   /* negative half of width above */
+	margin-top:-200px;   /* negative half of height above */
+}
+a{
+    color: black;
+    background-color: none;
+    float: left;
+}
+h2{  
+    text-align: center;  
+    color: black;       
+}  
+label{  
+    margin-left: 20px;
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;
+    margin-left: 35px;  
+}  
+#Pass{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;
+    margin-left: 5px;    
+      
+}  
+button{  
+    width: 120px;  
+    height: 35px;  
+    border: none;  
+    border-radius: 8px;  
+    padding-left: 7px;
+    background-color: #309fe1;  
+        position: absolute;
+    /* top: 50%; */
+    left: 35%;
+    color: #FFF;
+    font-weight:bold;
+  
+}  
+span{  
+     
+    font-size: 17px;  
+}  
+
+.alert{
+    color:red;
+    margin-left: 138px;
+    margin-bottom: -25px;
+    font-size: 12px;
+    margin-top: -12px;
+}  
+.noti{
+        color: red;
+    margin-left: 9px;
+    margin-bottom: -12px;
+    margin-top: 15px;
+    font-size: 12px;
+    text-align: center;
+}

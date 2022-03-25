@@ -1,0 +1,88 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:white;  
+    font-family: 'Arial';  
+}  
+.func_list{  
+        width: 600px;  
+        margin: auto; 
+        margin-bottom: 15px; 
+        padding: 20px;  
+        background: #afafaf;  
+        border-radius: 15px ;  
+          
+}  
+h4{  
+    text-align: center;  
+    color: black;       
+}  
+label{  
+	margin-top: 18px;
+    margin-left: 20px;
+    font-size: 17px;  
+}  
+button{  
+    width: 120px;  
+    height: 35px;  
+    border: none;  
+    border-radius: 8px;  
+    padding-left: 7px;
+    background-color: #309fe1;  
+    margin-left: 208px;
+    color: #FFF;
+    font-weight:bold;
+  
+}  
+.btn-map{
+	position: absolute;
+    width: 120px;
+    height: 42px;
+    margin-left: 450px;
+    margin-top: -10px;
+}
+.btn-add{
+	margin-left: 69px;
+	margin-top: 10px;
+    width: 165px;
+    height: 42px;
+}
+a{  
+   float: right;  
+   background-color: black;  
+}
+.alert{
+  color:red;
+      margin-left: 110px;
+    margin-bottom: -25px;
+}  
+.searchlayout{
+    margin-left: 50px;
+    margin-top: 35px;
+}
+.namegas{
+	margin-left: 25px;
+    width: 230;
+}
+.checkmark {
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  margin-left: 15px;
+}
+.gastype{
+	margin-top: 15px;
+    float: right;
+    margin-right: 142px;
+}
+.s_dist{
+	margin-left: 145px;
+    width: 230px;
+    height: 28px;
+}
+span{
+	font-weight: bold;
+    font-size: 22px;
+    padding-left: 20px;
+}
